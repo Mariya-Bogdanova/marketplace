@@ -1,0 +1,10 @@
+.nav {  
+    width: 240px;
+    display: flex;
+    justify-content: space-between;
+    a {
+        color: white;
+        text-decoration: none;
+        font-weight: 700;
+    }
+}
