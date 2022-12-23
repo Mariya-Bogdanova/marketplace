@@ -7,7 +7,7 @@ function App() {
     <>
       <Header />
       <Routes>
-        <Route path="/catalog" element={<Catalog />}></Route>
+        <Route path="/" element={<Catalog />}></Route>
       </Routes>
     </>
   );
